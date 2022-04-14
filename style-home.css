@@ -73,7 +73,7 @@ nav a:hover {
 
 .banner {
     width: 99.5%;
-    height: 750px; 
+    height: 750px;
     object-fit: cover;
     border: 5px solid black;
     object-position: 0 30%;
